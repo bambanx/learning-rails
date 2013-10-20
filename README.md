@@ -1,4 +1,6 @@
 == README
+This is a tutorial book writed for Daniel Kehoe, exited to learn with this book 
+its very easy and well writed, thinking in people who is starting programming
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
